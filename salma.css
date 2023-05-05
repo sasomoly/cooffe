@@ -1,0 +1,47 @@
+body{
+    background-color: burlywood;
+    background-image:image(beans.jpg);
+}
+.h5{
+    text-align: center;
+}
+.h1{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+.img{
+    margin: 8px auto;
+    padding: 2px;
+    margin-left: 630px;
+    margin-top: -20px;
+}
+.li{
+    margin: 10px auto;
+    padding: 15px;
+    line-height:38px ;
+    margin-right: -30px;
+    font-size: large;
+}
+.dl{
+    margin-left: 1250px;
+    line-height: 38px;
+    display: inline-block;
+    margin-top: -300px;
+    font-size: larger;
+    text-align: right;
+    height: 15px;
+}
+.h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.h4{
+    text-align: center;
+}
+.hr{
+    border-style: 0.5 solid; 
+    border-color: red;
+     width :50%;
+}
